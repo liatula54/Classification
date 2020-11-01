@@ -1,2 +1,2 @@
-# Classification
-MNIST dataset numbers classification task
+#  Image Classification
+MNIST dataset handwritten digits classification
